@@ -1,8 +1,9 @@
-crewai
-crewai[tools]
-streamlit
-python-dotenv
-pyyaml
-requests
-tavily-python
-litellm
+crewai[tools]==1.12.2
+streamlit==1.55.0
+python-dotenv==1.1.1
+pyyaml==6.0.3
+requests==2.32.5
+tavily-python==0.7.23
+litellm==1.82.6
+langchain
+openai
