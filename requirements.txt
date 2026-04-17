@@ -1,4 +1,4 @@
-crewai[tools]==1.12.2
+crewai[tools]==0.28.0
 streamlit==1.55.0
 python-dotenv==1.1.1
 pyyaml==6.0.3
